@@ -1,0 +1,7 @@
+{
+  "name": "AI Cooking Assistant Pro",
+  "description": "A professional-grade AI cooking assistant that helps with meal planning, recipe generation, skill learning, and provides feedback via image analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
